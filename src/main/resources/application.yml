@@ -7,7 +7,7 @@ spring:
 # Server configuration
 server:
   context-path: /micro
-#  port: 8080
+  port: 8080
 
 
 # Cloudant Configuration
