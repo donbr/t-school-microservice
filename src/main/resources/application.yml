@@ -5,14 +5,14 @@ spring:
 
 
 # Server configuration
-server:
-  context-path: /micro
-  port: 8080
+#server:
+#  context-path: /micro
+#  port: 8080
 
 
 # Cloudant Configuration
 cloudant:
-    db: demo-now
-    username: 95546fb7-eb3a-4fd6-94aa-61a3da6d1ffb-bluemix
-    password: ad42ec501aab0f66e888fff51563879a5b36055271d257699494a19bf71d65ff
-    url: https://95546fb7-eb3a-4fd6-94aa-61a3da6d1ffb-bluemix.cloudant.com
+    db: accountdb
+    username: 1819ecd9-7c07-48a2-892f-81bef1aa1097-bluemix
+    password: db461fa4a5d6ce506080459d71784468d39360f205a90dd8a6472b1afd73f8d6
+    url: https://1819ecd9-7c07-48a2-892f-81bef1aa1097-bluemix:db461fa4a5d6ce506080459d71784468d39360f205a90dd8a6472b1afd73f8d6@1819ecd9-7c07-48a2-892f-81bef1aa1097-bluemix.cloudant.com
