@@ -1,7 +1,7 @@
 # Spring properties
 spring:
   application:
-     name: account-microservice
+     name: account-microservice-dwb
 
 
 # Server configuration
